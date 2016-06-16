@@ -5,6 +5,7 @@ package InheritanceAndPolymorphism;
  *
  */
 public class Animal {
+	String picture;
 
 
 }
