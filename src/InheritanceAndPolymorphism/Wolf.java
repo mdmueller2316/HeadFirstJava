@@ -5,4 +5,10 @@ package InheritanceAndPolymorphism;
  *
  */
 public class Wolf extends Canine {
+
+	public void MakeNoise() {}
+
+
+
+	public void Eat() {}
 }

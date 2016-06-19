@@ -5,4 +5,10 @@ package InheritanceAndPolymorphism;
  *
  */
 public class Lion extends Feline {
+
+	public void MakeNoise() {}
+
+
+
+	public void Eat() {}
 }

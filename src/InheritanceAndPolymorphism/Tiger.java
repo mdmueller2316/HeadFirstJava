@@ -6,4 +6,9 @@ package InheritanceAndPolymorphism;
  */
 public class Tiger extends Feline {
 
+	public void MakeNoise() {}
+
+
+
+	public void Eat() {}
 }

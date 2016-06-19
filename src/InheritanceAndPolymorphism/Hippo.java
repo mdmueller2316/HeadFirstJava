@@ -5,4 +5,11 @@ package InheritanceAndPolymorphism;
  *
  */
 public class Hippo extends Animal {
+
+	public void MakeNoise() {}
+
+
+
+	public void Eat() {}
+
 }
