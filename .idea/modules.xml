@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradelTest.iml" filepath="$PROJECT_DIR$/.idea/modules/GradelTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradelTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradelTest_main.iml" group="GradelTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradelTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradelTest_test.iml" group="GradelTest" />
       <module fileurl="file://$PROJECT_DIR$/HeadFirst Java.iml" filepath="$PROJECT_DIR$/HeadFirst Java.iml" />

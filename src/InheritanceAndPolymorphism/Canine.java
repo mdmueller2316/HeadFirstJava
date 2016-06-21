@@ -6,5 +6,8 @@ package InheritanceAndPolymorphism;
  */
 abstract public class Canine extends Animal {
 
+	public Canine(String n) {
+		super(n);
+	}
 	public void Roam() {}
 }

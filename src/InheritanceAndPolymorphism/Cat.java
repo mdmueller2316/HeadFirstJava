@@ -6,6 +6,10 @@ package InheritanceAndPolymorphism;
  */
 public class Cat extends Feline implements Pet {
 
+	public Cat(String n) {
+		super(n);
+	}
+
 	public void MakeNoise() {}
 
 

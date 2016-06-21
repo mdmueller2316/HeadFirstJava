@@ -7,4 +7,5 @@ public interface Pet {
 
 	abstract void BeFriendly();
 	abstract void Play();
+
 }

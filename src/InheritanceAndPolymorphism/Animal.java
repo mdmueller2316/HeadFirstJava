@@ -10,7 +10,15 @@ abstract public class Animal {
 	String hunger;
 	String boundaries;
 	String location;
+	String name;
 
+	public Animal(){
+
+	}
+
+	public Animal(String n) {
+		name = n;
+	}
 	abstract public void MakeNoise();
 	abstract public void Eat();
 

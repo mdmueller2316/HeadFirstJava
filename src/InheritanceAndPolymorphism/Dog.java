@@ -6,9 +6,18 @@ package InheritanceAndPolymorphism;
  */
 public class Dog extends Canine implements Pet {
 
+	 public Dog() {
+		 this("Jake");
+	 }
+
+	public Dog(String n) {
+		super(n);
+	}
+
+
+
+
 	public void MakeNoise() {}
-
-
 
 	public void Eat() {}
 
